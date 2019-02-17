@@ -1,0 +1,1 @@
+docker start practice_server
